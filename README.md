@@ -102,10 +102,10 @@ An interactive landing-page experience developed using **React Three Fiber, Thre
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rathanpaki&theme=tokyonight" alt="Contribution summary" />
 </div>
 
-## Contribution Activity
+##  Contribution Snake
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/rathanpaki/rathanpaki/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
 </div>
 
 ##  Connect With Me
